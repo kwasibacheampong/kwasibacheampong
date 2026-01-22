@@ -7,21 +7,21 @@ My background spans **digital marketing, client-facing roles, and account develo
 - grounding insights in commercial reality
 - communicating findings in a way stakeholders can act on
 
-## 🔍 What I Work On
+## What I Work On
 - Marketing performance and ROI analysis  
 - Customer and client experience insights  
 - Account portfolio and revenue decision support
 - Business Architecture & Decision Intelligence  
 
-## 🧠 How I Work
+## How I Work
 - Frame analysis around real business decisions  
 - Select KPIs that reflect **commercial outcomes**, not vanity metrics  
 - Translate data into **clear insights and actionable recommendations**  
 
-## 🛠 Tools
+## Tools
 **SQL · Python · Power BI / Tableau · Excel**
 
-## 📊 Selected Projects
+## Selected Projects
 - **Marketing Performance & ROI Decision Analysis**  
 - **Customer & Client Experience Insight Analysis**  
 - **Account Portfolio & Revenue Decision Support Analysis**
