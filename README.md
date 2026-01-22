@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I’m Kwasi 👋
 
-<!--
-**kwasibacheampong/kwasibacheampong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I leverage **Business and Data Analysis** capabilities to deliver organisation-wide intelligence that supports better Market/Non-Market; **marketing performance, client service, account management, people, organisation, process and technology decisions**.
 
-Here are some ideas to get you started:
+My background spans **digital marketing, client-facing roles, and account development**, which shapes how I approach analysis:
+- starting with the business question
+- grounding insights in commercial reality
+- communicating findings in a way stakeholders can act on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I Work On
+- Marketing performance and ROI analysis  
+- Customer and client experience insights  
+- Account portfolio and revenue decision support
+- Business Architecture & Decision Intelligence  
+
+## 🧠 How I Work
+- Frame analysis around real business decisions  
+- Select KPIs that reflect **commercial outcomes**, not vanity metrics  
+- Translate data into **clear insights and actionable recommendations**  
+
+## 🛠 Tools
+**SQL · Python · Power BI / Tableau · Excel**
+
+## 📊 Selected Projects
+- **Marketing Performance & ROI Decision Analysis**  
+- **Customer & Client Experience Insight Analysis**  
+- **Account Portfolio & Revenue Decision Support Analysis**
+- **Business Architecture & Decision Intelligence**
