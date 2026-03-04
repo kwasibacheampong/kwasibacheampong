@@ -1,6 +1,6 @@
 ## Hi, I’m Kwasi 👋
 
-I leverage **Business and Data Analysis** capabilities to deliver organisation-wide intelligence that supports better Market/Non-Market; **marketing performance, client service, account management, people, organisation, process and technology decisions**.
+I leverage **Technological Innovation, Business and Data** capabilities to deliver organisation-wide intelligence that supports better Market/Non-Market; **marketing performance, client service, account management, people, organisation, process and technology decisions**.
 
 My background spans **digital marketing, client-facing roles, and account development**, which shapes how I approach analysis:
 - starting with the business question
