@@ -36,8 +36,8 @@ The digital landscape is shifting from **search-driven discovery to AI-driven di
 
 This introduces two major changes:
 
-1. Conversational AI increasingly mediates how customers discover brands
-2. AI agents are beginning to act as **purchasing decision-makers**
+* Conversational AI increasingly mediates how customers discover brands
+* AI agents are beginning to act as **purchasing decision-makers**
 
 My current work explores how organisations can adapt their marketing, data and technology systems for this shift.
 
