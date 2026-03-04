@@ -85,10 +85,10 @@ Key areas of exploration:
 
 # How I Work
 
-• Frame analysis around **real business decisions**
-• Select KPIs that reflect **commercial outcomes, not vanity metrics**
-• Translate data into **clear insights and actionable recommendations**
-• Design systems that allow organisations to **scale intelligence and execution**
+* Frame analysis around **real business decisions**
+* Select KPIs that reflect **commercial outcomes, not vanity metrics**
+* Translate data into **clear insights and actionable recommendations**
+* Design systems that allow organisations to **scale intelligence and execution**
 
 # Tools
 
