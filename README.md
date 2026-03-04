@@ -10,8 +10,6 @@ I leverage **Technology, Innovation, Business and Data capabilities** to deliver
 
 My work sits at the intersection of **business strategy, analytics and systems design** — translating complex data and technological capability into **clear commercial outcomes.**
 
----
-
 # My Approach
 
 My background spans **digital marketing, client-facing roles and account development**, which shapes how I approach analysis and system design:
@@ -22,8 +20,6 @@ My background spans **digital marketing, client-facing roles and account develop
 
 I focus on building decision frameworks and intelligent systems that help organisations move from **data → insight → action → results.**
 
----
-
 # What I Work On
 
 * Marketing performance and ROI analysis
@@ -31,8 +27,6 @@ I focus on building decision frameworks and intelligent systems that help organi
 * Account portfolio and revenue decision support
 * Business architecture and decision intelligence
 * AI-driven discovery and growth systems
-
----
 
 # Current Focus
 
@@ -44,8 +38,6 @@ This introduces two major changes:
 2. AI agents are beginning to act as **purchasing decision-makers**
 
 My current work explores how organisations can adapt their marketing, data and technology systems for this shift.
-
----
 
 # Flagship System
 
@@ -71,8 +63,6 @@ The goal is to create a **closed-loop growth intelligence system** linking marke
 
 Repository: **aurora-os**
 
----
-
 # System Thinking
 
 The systems I design focus on translating **strategic insight into operational capability.**
@@ -91,8 +81,6 @@ Incremental Revenue Modeling
 
 Lifecycle Value Intelligence
 
----
-
 # How I Work
 
 • Frame analysis around **real business decisions**
@@ -100,16 +88,12 @@ Lifecycle Value Intelligence
 • Translate data into **clear insights and actionable recommendations**
 • Design systems that allow organisations to **scale intelligence and execution**
 
----
-
 # Tools
 
 SQL
 Python
 Power BI / Tableau
 Excel
-
----
 
 # Selected Projects
 
@@ -123,13 +107,10 @@ Business Architecture & Decision Intelligence
 
 Aurora OS – AI Discovery & Growth Intelligence Platform
 
----
 
 # Philosophy
 
-Technology is leverage.
-
-The most powerful organisations build systems that combine:
+Technology is leverage. The most powerful organisations build systems that combine:
 
 Strategic thinking
 Data infrastructure
