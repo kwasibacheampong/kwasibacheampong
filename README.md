@@ -99,22 +99,22 @@ Excel
 
 # Selected Projects
 
-Marketing Performance & ROI Decision Analysis
+* Marketing Performance & ROI Decision Analysis
 
-Customer & Client Experience Insight Analysis
+* Customer & Client Experience Insight Analysis
 
-Account Portfolio & Revenue Decision Support
+* Account Portfolio & Revenue Decision Support
 
-Business Architecture & Decision Intelligence
+* Business Architecture & Decision Intelligence
 
-Aurora OS – AI Discovery & Growth Intelligence Platform
+* Aurora OS – AI Discovery & Growth Intelligence Platform
 
 
 # Philosophy
 
 Technology is leverage. The most powerful organisations build systems that combine:
 
-Strategic thinking
-Data infrastructure
-Automation
-Commercial impact
+* Strategic thinking
+* Data infrastructure
+* Automation
+* Commercial impact
