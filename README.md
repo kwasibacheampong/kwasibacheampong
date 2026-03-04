@@ -15,7 +15,9 @@ My work sits at the intersection of **business strategy, analytics and systems d
 My background spans **digital marketing, client-facing roles and account development**, which shapes how I approach analysis and system design:
 
 • Start with the **business question**
+
 • Ground insights in **commercial reality**
+
 • Communicate findings in a way **stakeholders can act on**
 
 I focus on building decision frameworks and intelligent systems that help organisations move from **data → insight → action → results.**
