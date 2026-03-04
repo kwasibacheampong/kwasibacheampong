@@ -71,17 +71,17 @@ The systems I design focus on translating **strategic insight into operational c
 
 Key areas of exploration:
 
-Machine & Human Customer Optimization (MHCO)
+* Machine & Human Customer Optimization (MHCO)
 
-Generative Engine Optimization (GEO)
+* Generative Engine Optimization (GEO)
 
-AI Discovery Intelligence
+* AI Discovery Intelligence
 
-Machine Customer Simulation
+* Machine Customer Simulation
 
-Incremental Revenue Modeling
+* Incremental Revenue Modeling
 
-Lifecycle Value Intelligence
+* Lifecycle Value Intelligence
 
 # How I Work
 
