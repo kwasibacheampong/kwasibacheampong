@@ -1,13 +1,9 @@
 <!-- KWASI BOAKYE ACHEAMPONG — GitHub Profile README -->
 <!-- Fruitful Bough · Strategic architect of measurable value -->
-
 <div align="center">
-
-# Kwasi Boakye Acheampong
-
-**Founder, Fruitful Bough · Strategic architect of measurable value**
-
-*Advisory, Structural delivery, Management consultancy, Engineering.*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=Kwasi+Boakye+Acheampong;Founder%2C+Fruitful+Bough;Strategic+architect+of+measurable+value;Advisory+%C2%B7+Structural+Delivery;Management+Consultancy+%C2%B7+Engineering" alt="Typing SVG" />
+</p>
 
 [![Website](https://img.shields.io/badge/Website-fruitfulbough.uk-1B2A4A?style=flat-square)](https://fruitfulbough.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kwasi%20Boakye%20Acheampong-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwasi-acheampong-3ab8a3229/)
