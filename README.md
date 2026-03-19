@@ -1,120 +1,150 @@
-# Hi, I'm Kwasi 👋
+<!-- KWASI BOAKYE ACHEAMPONG — GitHub Profile README -->
+<!-- Fruitful Bough · Strategic architect of measurable value -->
 
-I leverage **Technology, Innovation, Business and Data capabilities** to deliver organisation-wide intelligence that supports better **Market / Non-Market decisions** across:
+<div align="center">
 
-* marketing performance
-* client service
-* account management
-* people and organisational effectiveness
-* technology and process improvement
+# Kwasi Boakye Acheampong
 
-My work sits at the intersection of **business strategy, analytics and systems design** — translating complex data and technological capability into **clear commercial outcomes.**
+**Founder, Fruitful Bough · Strategic architect of measurable value**
 
-# My Approach
+*Not advisory — structural. Not consultancy — engineering.*
 
-My background spans **digital marketing, client-facing roles and account development**, which shapes how I approach analysis and system design:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kwasi%20Boakye%20Acheampong-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwasi-acheampong-3ab8a3229/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20App-00A8CC?style=flat-square)](https://kwasi-acheampong-capability-portfolio.base44.app)
+[![Fruitful Bough](https://img.shields.io/badge/Fruitful%20Bough-Platform%20Portfolio-C9A84C?style=flat-square)](https://github.com/fruitful-bough)
 
-• Start with the **business question**
+</div>
 
-• Ground insights in **commercial reality**
+---
 
-• Communicate findings in a way **stakeholders can act on**
+## Proven outcomes
 
-I focus on building decision frameworks and intelligent systems that help organisations move from **data → insight → action → results.**
+| Outcome | Context |
+|---------|---------|
+| **£1M+** public funding secured | CAHN HIV & sexual health delivery · Lambeth, Southwark, Lewisham |
+| **30%** programme reach increase | Community health delivery · independently verifiable |
+| **3.2×** ROI delivered | Airport commercial intelligence engagement (MAG) |
+| **30–70%** Revenue Per Passenger uplift | ACE-OS airport commerce architecture |
+| **67%** growth acceleration | De United programme delivery |
 
-# What I Work On
+---
 
-* Marketing performance and ROI analysis
-* Customer and client experience insights
-* Account portfolio and revenue decision support
-* Business architecture and decision intelligence
-* AI-driven discovery and growth systems
+## What I build
 
-# Current Focus
+Five enterprise-grade platforms at the intersection of business architecture, data intelligence, and AI. Each one designed to move organisations from **data → insight → action → results**.
 
-The digital landscape is shifting from **search-driven discovery to AI-driven discovery.**
+### 🟠 [Aurora OS](https://github.com/kwasibacheampong/aurora-os)
+**The operating system for marketing in the age of AI customers**
 
-This introduces two major changes:
+Tracks, scores, and optimises brand presence across AI assistants (ChatGPT, Claude, Gemini, Perplexity). Influence Share Index (ISI) scoring, Generative Engine Optimisation (GEO), content gap detection. Built on Claude API + Base44.
 
-* Conversational AI increasingly mediates how customers discover brands
-* AI agents are beginning to act as **purchasing decision-makers**
+`ai-marketing` `claude-api` `geo` `decision-intelligence` `base44`
 
-My current work explores how organisations can adapt their marketing, data and technology systems for this shift.
+---
 
-# Flagship System
+### 🔵 [ACE-OS](https://github.com/kwasibacheampong/ace-os)
+**Airport Commerce & Experience Operating System**
 
-## Aurora OS
+Replaces outsourced marketplace operators with an internally owned digital commerce platform. Journey-aware commerce, retail media network, passenger intelligence, yield optimisation. 11 microservices. $300–500M 5-year net value.
 
-### The Operating System for Marketing in the Age of AI Customers
+`airport` `ecommerce` `microservices` `retail-media` `digital-twin`
 
-Aurora OS is a conceptual platform designed to help organisations optimise for both **human customers and machine customers.**
+---
 
-The system connects:
+### ✈️ [ACO — Aviation Capacity Orchestrator](https://github.com/kwasibacheampong/aviation-capacity-orchestrator)
+**Digital twin + predictive + orchestration engine for airport operations**
 
-AI Discovery
-↓
-Influence Intelligence
-↓
-Machine Decision Simulation
-↓
-Demand Incrementality
-↓
-Customer Lifetime Value
+5–15% throughput uplift without physical expansion. Real-time airside + landside orchestration under ESG and regulatory constraints. Kafka event backbone, Flink stream processing, Neo4j graph twin. MVP: 90–120 days buildable.
 
-The goal is to create a **closed-loop growth intelligence system** linking marketing influence directly to commercial outcomes.
+`digital-twin` `kafka` `flink` `neo4j` `aviation` `capacity-orchestration`
 
-Repository: **aurora-os**
+---
 
-# System Thinking
+### 🟢 [UK FMCG GTM Accelerator](https://github.com/kwasibacheampong/uk-fmcg-gtm-accelerator)
+**Simulation and negotiation intelligence for UK grocery**
 
-The systems I design focus on translating **strategic insight into operational capability.**
+Decision intelligence for FMCG brands navigating retailer power asymmetry, Clubcard/Nectar loyalty price distortion, and margin compression. Log-log elasticity modelling with UK-specific dual-price mechanics. Scenario runtime < 5 seconds.
 
-Key areas of exploration:
+`fmcg` `uk-grocery` `elasticity-modelling` `simulation` `python` `snowflake`
 
-* Machine & Human Customer Optimization (MHCO)
+---
 
-* Generative Engine Optimization (GEO)
+### 🟡 [SIGFA](https://github.com/kwasibacheampong/sigfa)
+**Social Impact Growth & Funding Accelerator**
 
-* AI Discovery Intelligence
+AI platform bridging UK CICs, NHS Trusts, and corporate ESG capital. Proven manually at CAHN (£1M+ secured). Funding Fit Engine, Bid Builder, Health Economics Calculator with NICE QALY modelling. 100,000+ UK CICs addressable.
 
-* Machine Customer Simulation
+`social-impact` `nhs` `uk-cic` `esg` `claude-api` `base44` `health-economics`
 
-* Incremental Revenue Modeling
+---
 
-* Lifecycle Value Intelligence
+## How I build
 
-# How I Work
+Every platform follows the same discipline:
 
-* Frame analysis around **real business decisions**
-* Select KPIs that reflect **commercial outcomes, not vanity metrics**
-* Translate data into **clear insights and actionable recommendations**
-* Design systems that allow organisations to **scale intelligence and execution**
+```
+Start with the business question — not the technology
+Ground every insight in commercial reality
+Intelligence layer: Claude API — structured JSON output, no black-box outputs
+Application layer: Base44 — full-stack deployment without engineering overhead
+Communicate in a way stakeholders can act on
+```
 
-# Tools
+**Stack across the portfolio**
 
-SQL
-Python
-Power BI / Tableau
-Excel
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-FF6B35?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Base44](https://img.shields.io/badge/Base44-00A8CC?style=flat-square)
 
-# Selected Projects
+---
 
-* Marketing Performance & ROI Decision Analysis
+## Current builds
 
-* Customer & Client Experience Insight Analysis
+| Platform | Status | Stage |
+|----------|--------|-------|
+| Aurora OS | 🟠 Active | Phase 1 build — Claude API + Base44 |
+| ACE-OS | 🔵 Architecture complete | Enterprise Architecture Document v1.0 |
+| ACO | ✈️ PRD complete | MVP scope defined · 90–120 days to build |
+| FMCG GTM Accelerator | 🟢 PRD complete | Elasticity model specified · deployment pending |
+| SIGFA | 🟡 MVP live | Proven at CAHN · scaling |
 
-* Account Portfolio & Revenue Decision Support
+---
 
-* Business Architecture & Decision Intelligence
+## Selected analysis repositories
 
-* Aurora OS – AI Discovery & Growth Intelligence Platform
+Earlier work evidencing the analytical foundation the platforms are built on:
 
+| Repository | Focus |
+|-----------|-------|
+| [Business Architecture & Decision Intelligence](https://github.com/kwasibacheampong/Business-Architecture-Decision-Intelligence) | Decision framework design and systems thinking |
+| [Marketing Performance & ROI Analysis](https://github.com/kwasibacheampong/Marketing-performance-and-ROI-analysis) | Channel performance and commercial ROI |
+| [Account Portfolio & Revenue Decision Support](https://github.com/kwasibacheampong/Account-portfolio-and-revenue-decision-support) | Account-level revenue intelligence |
+| [Customer & Client Experience Insights](https://github.com/kwasibacheampong/Customer-and-client-experience-insights) | CX analysis and segmentation |
 
-# Philosophy
+---
 
-Technology is leverage. The most powerful organisations build systems that combine:
+## Philosophy
 
-* Strategic thinking
-* Data infrastructure
-* Automation
-* Commercial impact
+Technology is leverage. The most capable organisations build systems that combine:
+
+- Strategic thinking
+- Data infrastructure
+- Automation
+- Commercial impact
+
+The work I do sits at that intersection — not in any one of those four alone, but in the architecture that connects them.
+
+---
+
+<div align="center">
+
+**Fruitful Bough** · fruitfulbough.uk
+
+*Integrity · Trust · Value*
+
+</div>
