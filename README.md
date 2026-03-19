@@ -2,7 +2,7 @@
 <!-- Fruitful Bough · Strategic architect of measurable value -->
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=Kwasi+Boakye+Acheampong;Founder%2C+Fruitful+Bough;Strategic+architect+of+measurable+value" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=Kwasi+Boakye+Acheampong;Director%2C+Fruitful+Bough;Strategic+architect+of+measurable+value" alt="Typing SVG" />
 </p>
 
 [![Website](https://img.shields.io/badge/Website-fruitfulbough.uk-1B2A4A?style=flat-square)](https://fruitfulbough.uk)
