@@ -7,7 +7,7 @@
 
 **Founder, Fruitful Bough · Strategic architect of measurable value**
 
-*Not advisory — structural. Not consultancy — engineering.*
+*Advisory, structural delivery, management consultancy, engineering.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kwasi%20Boakye%20Acheampong-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwasi-acheampong-3ab8a3229/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20App-00A8CC?style=flat-square)](https://kwasi-acheampong-capability-portfolio.base44.app)
