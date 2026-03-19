@@ -9,6 +9,7 @@
 
 *Advisory, Structural delivery, Management consultancy, Engineering.*
 
+[![Website](https://img.shields.io/badge/Website-fruitfulbough.uk-1B2A4A?style=flat-square)](https://fruitfulbough.uk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kwasi%20Boakye%20Acheampong-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwasi-acheampong-3ab8a3229/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20App-00A8CC?style=flat-square)](https://kwasi-acheampong-capability-portfolio.base44.app)
 [![Fruitful Bough](https://img.shields.io/badge/Fruitful%20Bough-Platform%20Portfolio-C9A84C?style=flat-square)](https://github.com/fruitful-bough)
@@ -143,7 +144,7 @@ The work I do sits at that intersection — not in any one of those four alone, 
 
 <div align="center">
 
-**Fruitful Bough** · fruitfulbough.uk
+**[Fruitful Bough](https://fruitfulbough.uk)** · [fruitfulbough.uk](https://fruitfulbough.uk)
 
 *Integrity · Trust · Value*
 
