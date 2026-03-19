@@ -16,7 +16,6 @@
 
 </div>
 
----
 
 ## Proven outcomes
 
@@ -28,11 +27,11 @@
 | **30–70%** Revenue Per Passenger uplift | ACE-OS airport commerce architecture |
 | **67%** growth acceleration | De United programme delivery |
 
----
 
 ## What I build
 
 Five enterprise-grade platforms at the intersection of business architecture, data intelligence, and AI. Each one designed to move organisations from **data → insight → action → results**.
+
 
 ### 🟠 [Aurora OS](https://github.com/kwasibacheampong/aurora-os)
 **The operating system for marketing in the age of AI customers**
@@ -41,16 +40,14 @@ Tracks, scores, and optimises brand presence across AI assistants (ChatGPT, Clau
 
 `ai-marketing` `claude-api` `geo` `decision-intelligence` `base44`
 
----
 
 ### 🔵 [ACE-OS](https://github.com/kwasibacheampong/ace-os)
 **Airport Commerce & Experience Operating System**
 
 Replaces outsourced marketplace operators with an internally owned digital commerce platform. Journey-aware commerce, retail media network, passenger intelligence, yield optimisation. 11 microservices. $300–500M 5-year net value.
 
-`airport` `ecommerce` `microservices` `retail-media` `digital-twin`
+`airport` `ecommerce` `microservices` `retail-media` `digital-twin
 
----
 
 ### ✈️ [ACO — Aviation Capacity Orchestrator](https://github.com/kwasibacheampong/aviation-capacity-orchestrator)
 **Digital twin + predictive + orchestration engine for airport operations**
@@ -59,7 +56,6 @@ Replaces outsourced marketplace operators with an internally owned digital comme
 
 `digital-twin` `kafka` `flink` `neo4j` `aviation` `capacity-orchestration`
 
----
 
 ### 🟢 [UK FMCG GTM Accelerator](https://github.com/kwasibacheampong/uk-fmcg-gtm-accelerator)
 **Simulation and negotiation intelligence for UK grocery**
@@ -68,7 +64,6 @@ Decision intelligence for FMCG brands navigating retailer power asymmetry, Clubc
 
 `fmcg` `uk-grocery` `elasticity-modelling` `simulation` `python` `snowflake`
 
----
 
 ### 🟡 [SIGFA](https://github.com/kwasibacheampong/sigfa)
 **Social Impact Growth & Funding Accelerator**
@@ -77,17 +72,16 @@ AI platform bridging UK CICs, NHS Trusts, and corporate ESG capital. Proven manu
 
 `social-impact` `nhs` `uk-cic` `esg` `claude-api` `base44` `health-economics`
 
----
 
 ## How I build
 
 Every platform follows the same discipline:
 
-```
-Start with the business question — not the technology
+
+Start with the business question, not the technology
 Ground every insight in commercial reality
-Intelligence layer: Claude API — structured JSON output, no black-box outputs
-Application layer: Base44 — full-stack deployment without engineering overhead
+Intelligence layer: Claude API; structured JSON output, no black-box outputs
+Application layer: Base44; full-stack deployment without engineering overhead
 Communicate in a way stakeholders can act on
 ```
 
@@ -102,19 +96,17 @@ Communicate in a way stakeholders can act on
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Base44](https://img.shields.io/badge/Base44-00A8CC?style=flat-square)
 
----
 
 ## Current builds
 
 | Platform | Status | Stage |
 |----------|--------|-------|
-| Aurora OS | 🟠 Active | Phase 1 build — Claude API + Base44 |
+| Aurora OS | 🟠 Active | Phase 1 build: Claude API + Base44 |
 | ACE-OS | 🔵 Architecture complete | Enterprise Architecture Document v1.0 |
 | ACO | ✈️ PRD complete | MVP scope defined · 90–120 days to build |
 | FMCG GTM Accelerator | 🟢 PRD complete | Elasticity model specified · deployment pending |
 | SIGFA | 🟡 MVP live | Proven at CAHN · scaling |
 
----
 
 ## Selected analysis repositories
 
@@ -127,7 +119,6 @@ Earlier work evidencing the analytical foundation the platforms are built on:
 | [Account Portfolio & Revenue Decision Support](https://github.com/kwasibacheampong/Account-portfolio-and-revenue-decision-support) | Account-level revenue intelligence |
 | [Customer & Client Experience Insights](https://github.com/kwasibacheampong/Customer-and-client-experience-insights) | CX analysis and segmentation |
 
----
 
 ## Philosophy
 
@@ -138,9 +129,8 @@ Technology is leverage. The most capable organisations build systems that combin
 - Automation
 - Commercial impact
 
-The work I do sits at that intersection — not in any one of those four alone, but in the architecture that connects them.
+The work I do sits at that intersectio, not in any one of those four alone, but in the architecture that connects them.
 
----
 
 <div align="center">
 
