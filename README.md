@@ -75,6 +75,15 @@ AI platform bridging UK CICs, NHS Trusts, and corporate ESG capital. Proven manu
 
 ---
 
+## Skills & capabilities
+
+<p align="center">
+  <img src="./assets/skills-cloud.gif" alt="Skills cloud" width="860"/>
+</p>
+
+---
+
+
 ## How I build
 
 Every platform follows the same discipline:
