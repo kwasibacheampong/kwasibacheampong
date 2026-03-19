@@ -78,7 +78,7 @@ AI platform bridging UK CICs, NHS Trusts, and corporate ESG capital. Proven manu
 ## Skills & capabilities
 
 <p align="center">
-  <img src="./assets/orbit_v3.gif" alt="Capability ecosystem" width="700"/>
+  <img src="./assets/domain_anim.gif" alt="Domain expertise" width="900"/>
 </p>
 
 ---
